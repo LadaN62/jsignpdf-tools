@@ -6,6 +6,8 @@ The project keeps the original JSignPdf signing capabilities while adding workfl
 
 > **Note:** JSignPdf Tools is an independent derivative project and is not the official JSignPdf distribution.
 
+![JSignPdf Tools visible signature preview](docs/images/jsignpdf-tools-preview.png)
+
 ## Current enhancements
 
 Compared with the upstream JSignPdf application, this project currently includes:
